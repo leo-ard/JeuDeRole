@@ -169,7 +169,7 @@ public class GamePane extends JPanel implements Runnable{
 		//personnageSprite[0] = new PersoSprite();
 		
 		personnageTexture[0] = new ImageIcon("assets/textures/player/tetes.png").getImage();
-		personnageTexture[1] = new ImageIcon("assets/textures/player/down.png").getImage();
+		personnageTexture[1] = new ImageIcon("assets/textures/player/multi/perso0.png").getImage();
 	}
 	
 	public void addNotify(){
